@@ -1,0 +1,44 @@
+.username-entry-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.game-name-heading {
+    font-size: 60px;
+    text-decoration: underline;
+    margin: 50px;
+}
+
+.form-container {
+    border: 2px solid black;
+    width: 80%;
+    height: 60vh;
+    text-align: center;
+}
+
+.input-and-button-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.input-field {
+    height: 60px;
+    width: 440px;
+    font-size: 30px;
+}
+
+.play-button {
+    background-color: #3F48CC;
+    height: 40px;
+    width: 140px;
+    margin: 40px;
+    color: white;
+    border: none;
+    border-radius: 12px;
+    font-size: 20px;
+}
